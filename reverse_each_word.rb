@@ -3,6 +3,5 @@ array = []
 sentence = array
 array.each do |element|
   array << element.reverse
-end
 array
 end
