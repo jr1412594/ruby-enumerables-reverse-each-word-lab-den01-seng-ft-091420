@@ -5,7 +5,7 @@ new_array = []
 array.each do |element|
   new_array << element.reverse
 end
-new_array
+new_array.join(" ")
 end
 
  
