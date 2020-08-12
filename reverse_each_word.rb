@@ -4,4 +4,5 @@ array = []
 sentence = array
 array.each do |element|
   array << element.reverse
+ return array
  end
