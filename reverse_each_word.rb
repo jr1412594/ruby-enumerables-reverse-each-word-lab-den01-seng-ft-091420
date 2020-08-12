@@ -4,5 +4,4 @@ array = []
 sentence = array
 array.each do |element|
   array << element.reverse
-  binding.pry
-  putes "hello"
+ end
