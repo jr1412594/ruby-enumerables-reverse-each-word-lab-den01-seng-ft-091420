@@ -7,3 +7,5 @@ array.each do |element|
  end
  array
  end
+ 
+ binding.pry
